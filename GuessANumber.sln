@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessANumber", "GuessANumber\GuessANumber.csproj", "{0FFB2825-38BA-44AA-95DF-F30BD38BAC21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessANumberConsole", "GuessANumber\GuessANumberConsole.csproj", "{0FFB2825-38BA-44AA-95DF-F30BD38BAC21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
